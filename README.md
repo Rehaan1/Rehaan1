@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rehaan1 aka Rehaan Mazid
 - 👀 I’m interested in Extended Reality, Backend, and DevOps Development
-- 🌱 I’m currently learning VR Development
-- 💞️ I’m looking to collaborate on Extended Reality Projects
+- 🌱 I’m currently learning VR Development, Dev Ops, System Architecture, and Database Engineering
+- 💞️ I’m looking to collaborate on Extended Reality and Backend System Architecture Projects
 - 📫 You can reach me @ rehaanmazid@gmail.com
 
 <!---
